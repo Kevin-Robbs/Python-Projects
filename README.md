@@ -1,2 +1,31 @@
-# Python-Projects
-A collection of diverse Python projects showcasing the versatility and power of the language. From simple scripts to complex applications, explore the world of Python through this curated repository
+# Python Playground 🐍
+
+Welcome to the Python Playground! This repository houses a collection of diverse Python projects, demonstrating the versatility and power of the language.
+
+## Projects
+
+Mad Libs
+Guess the Number Game (computer)
+Guess the Number Game (user)
+Rock, paper, scissors
+Hangman
+Countdown Timer
+Password Generator
+QR code encoder / decoder
+Tic-Tac-Toe
+Tic-Tac-Toe AI
+Binary Search
+Minesweeper
+Sudoku Solver
+Photo manipulation in Python
+Markov Chain Text Composer
+Pong
+Snake
+Connect Four
+Tetris
+Online Multiplayer Game
+Web Scraping Program
+Bulk file renamer
+Weather Program
+Code a Discord Bot with Python - Host for Free in the Cloud
+Space invaders game
