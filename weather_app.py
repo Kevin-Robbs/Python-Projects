@@ -1,6 +1,3 @@
-import json
-from pprint import pprint
-
 import requests
 
 state_abbr = input("To look up weather alerts in your state, enter in your states abbreviation: ")
